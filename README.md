@@ -11,8 +11,9 @@
  <img src="https://komarev.com/ghpvc/?username=G-Teja2001&label=Profile%20views&color=0e75b6&style=flat" alt="G-Teja2001" />
 </div>
 <br/>
-<img src="https://github.com/G-Teja2001/G-Teja2001/blob/main/Copy%20of%20Hello%2C%20my%20name%20is%20Matthew.%20Nice%20to%20meet%20you.%20(2).png" alt="Full stack Developer Banner" />
+<img src='https://github.com/ruchita00/ruchita00/blob/main/Copy%20of%20Hello%2C%20my%20name%20is%20Matthew.%20Nice%20to%20meet%20you.%20(2).png' v3.png" alt="Front End Developer Banner" />
 <br/>
+
 
 
 
