@@ -21,7 +21,7 @@
 
 🔎 I’m looking to collaborate on **Open source Project**
 
-💻 All of my projects are available at **[My Portfolio]((https://byte-bard-ntxlsu5x1-g-teja2001.vercel.app/about))**
+💻 All of my projects are available at **[My Portfolio](https://byte-bard-ntxlsu5x1-g-teja2001.vercel.app/about)**
 
 💬 Ask me about **Frontend Development**
 
@@ -97,7 +97,7 @@
 ## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=50&center=true&vCenter=true&random=false&width=30&height=24&lines=%F0%9F%92%AB" alt="Typing SVG" /> Github Stats:
 
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=G-Teja2001&show_icons=true&locale=en&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center" alt="  Most Language Uses" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=G-G-Teja2001&show_icons=true&locale=en&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center" alt="  Most Language Uses" /></div>
 
 <br/> <br/>
 
