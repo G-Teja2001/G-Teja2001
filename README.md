@@ -21,7 +21,7 @@
 
 🔎 I’m looking to collaborate on **Open source Project**
 
-💻 All of my projects are available at **[My Portfolio](https://6597f3749ada7804a675f6f3--poetic-alfajores-216ca4.netlify.app/)**
+💻 All of my projects are available at **[My Portfolio]((https://byte-bard-ntxlsu5x1-g-teja2001.vercel.app/about))**
 
 💬 Ask me about **Frontend Development**
 
@@ -41,7 +41,7 @@
 
 ## 🔰 Let's Connect:
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/teja-golla-691718242/))
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teja-golla-691718242/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:helloteja2001@gmail.com)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/#)
 [![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/teja2238)
