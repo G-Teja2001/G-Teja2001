@@ -90,20 +90,20 @@
 
 ## <img style="vertical-align: sub" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=50&center=true&vCenter=true&random=false&width=30&height=22&lines=%F0%9F%92%96" alt="Typing SVG" /> Popular Repository:
 
-<div align="center"><a href="https://github.com/ruchita00/Javascript_ingterview_preparation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ruchita00&repo=Javascript_ingterview_preparation&cache_seconds=86400&theme=radical" alt="Namaste Javascript Repository" />
+<div align="center"><a href="https://github.com/G-Teja2001/DSA">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=G-Teja2001&repo=DSA&cache_seconds=86400&theme=radical" alt="DSA Repository" />
 </a></div>
 
 ## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=50&center=true&vCenter=true&random=false&width=30&height=24&lines=%F0%9F%92%AB" alt="Typing SVG" /> Github Stats:
 
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ruchita00&show_icons=true&locale=en&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center" alt="  Most Language Uses" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=G-Teja2001&show_icons=true&locale=en&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center" alt="  Most Language Uses" /></div>
 
 <br/> <br/>
 
 ## ♨ MostLanguage Uses:
 
-<div align='center'> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruchita00&theme=transparent&include_all_commits=true" />
+<div align='center'> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-Teja2001&theme=transparent&include_all_commits=true" />
 </div>
 
 
